@@ -1,0 +1,29 @@
+.kedge.png {
+  text-align: center;
+} 
+ h1 {
+ 	font-size: 60px;
+ 	color: rgb(100, 100, 100);
+ }
+
+ h2 {
+ 	font-size:  25px;
+ 	color: darkred;
+ 	border: 2px solid green;
+ 	margin: 15px;
+ 	padding: 20px;
+ 	text-align: center;
+ }
+
+ 	.rs {
+ 		color: blue;
+ 	}
+ .titi {
+ 	text-align: center;
+ }
+
+div {
+  text-align: center;
+}
+
+
